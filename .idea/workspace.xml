@@ -2405,7 +2405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527417669050</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Project completed!">
+      <created>1527417743053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1527417743053</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2450,7 +2457,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trial" />
-    <option name="LAST_COMMIT_MESSAGE" value="trial" />
+    <MESSAGE value="Project completed!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project completed!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
